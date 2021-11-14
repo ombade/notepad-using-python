@@ -121,7 +121,7 @@ class Notepad:
 		# exit()
 
 	def __showAbout(self):
-		showinfo("Notepad","Mrinal Verma")
+		showinfo("Notepad","This is notpad application here you edit nmake and copy the txt files")
 
 	def __openFile(self):
 		
